@@ -1,6 +1,5 @@
 import './App.css'
 import Footer from './Components/Footer/Footer'
-import HeroSection from './Components/HeroSection/HeroSection'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './pages/Home.jsx'
 import Flights from './pages/Flights.jsx'
