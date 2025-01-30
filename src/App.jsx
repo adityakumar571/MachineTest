@@ -24,7 +24,7 @@ function App() {
       <Route path="/trains" element={<Trains/>}/>
       </Routes>
     </Router>
-    <Footer/>
+    
     </>
   )
 }
