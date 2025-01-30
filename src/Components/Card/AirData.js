@@ -1,0 +1,21 @@
+export const airlineData = [
+    { image: "https://via.placeholder.com/500", airline: "Go First", route: "BoM ----- Del", price: "40000" },
+    { image: "https://via.placeholder.com/500", airline: "IndiGo", route: "Delhi ----- Mumbai", price: "35000" },
+    { image: "https://via.placeholder.com/500", airline: "IndiGo", route: "Kolkata ----- Mumbai", price: "35000" },
+    { image: "https://via.placeholder.com/500", airline: "Kingfisher", route: "Delhi ----- Mumbai", price: "35000" },
+    { image: "https://via.placeholder.com/500", airline: "AirIndia", route: "Jammu & Kashmir ----- Mumbai", price: "35000" },
+    { image: "https://via.placeholder.com/500", airline: "SpiceJet", route: "Goa ----- Delhi", price: "28000" },
+    { image: "https://via.placeholder.com/500", airline: "AirAsia", route: "Bengaluru ----- Pune", price: "27000" },
+    { image: "https://via.placeholder.com/500", airline: "Vistara", route: "Mumbai ----- Goa", price: "22000" },
+    { image: "https://via.placeholder.com/500", airline: "GoAir", route: "Hyderabad ----- Chennai", price: "32000" },
+    { image: "https://via.placeholder.com/500", airline: "IndiGo", route: "Delhi ----- Bengaluru", price: "38000" },
+    { image: "https://via.placeholder.com/500", airline: "SpiceJet", route: "Pune ----- Delhi", price: "29000" },
+    { image: "https://via.placeholder.com/500", airline: "AirIndia", route: "Mumbai ----- Kolkata", price: "30000" },
+    { image: "https://via.placeholder.com/500", airline: "Go First", route: "Chennai ----- Mumbai", price: "35000" },
+    { image: "https://via.placeholder.com/500", airline: "SpiceJet", route: "Goa ----- Delhi", price: "28000" },
+    { image: "https://via.placeholder.com/500", airline: "AirAsia", route: "Bengaluru ----- Pune", price: "27000" },
+    { image: "https://via.placeholder.com/500", airline: "Vistara", route: "Mumbai ----- Goa", price: "22000" },
+    { image: "https://via.placeholder.com/500", airline: "GoAir", route: "Hyderabad ----- Chennai", price: "32000" },
+    { image: "https://via.placeholder.com/500", airline: "IndiGo", route: "Delhi ----- Bengaluru", price: "38000" },
+
+]
